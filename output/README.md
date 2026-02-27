@@ -1,0 +1,1 @@
+Intermediate results and final results of the data fusion are stored in this directory.
